@@ -16,10 +16,12 @@ It should have Features
 Good To have 
 1. Support for creating project over gravitydev as well. 
 2. Creating a sample document about this above 
+3. Create a Folder on Dropbox for the project and share it with people 
 
 Great to have 
-1. CI server intregration for build management
+1. CI server integration for build management
 2. Cap or deployment file creation 
 3. gitflow integration or git branching strategy supports
 4. DNS configuration for Staging and Production Use cases 
-4. Virtual Host configuration support for local , Staging and Production in case.		
+5. Virtual Host configuration support for local , Staging and Production in case.		
+6. Ability to choose to have Google calendar for Project
