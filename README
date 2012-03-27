@@ -21,3 +21,5 @@ Great to have
 1. CI server intregration for build management
 2. Cap or deployment file creation 
 3. gitflow integration or git branching strategy supports
+4. DNS configuration for Staging and Production Use cases 
+4. Virtual Host configuration support for local , Staging and Production in case.	
