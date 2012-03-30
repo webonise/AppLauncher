@@ -34,11 +34,23 @@
 					
 					<!-- .nav, .navbar-search, .navbar-form, etc -->
 				</div>
-
 			</div>
 		</div>
 	</div>
+	
 	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<div class="alert alert-info">
+					<a class="close" data-dismiss="alert">×</a>
+			  		<%= notice %>
+				</div>
+		       <div class="alert alert-error">
+					<a class="close" data-dismiss="alert">×</a>
+					<%= alert %>
+				</div>
+			</div>
+		</div>
 		<div class="row">
 			<div class="span9">
 				<%= yield %>

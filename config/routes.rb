@@ -1,4 +1,6 @@
 AppLauncher::Application.routes.draw do
+  devise_for :users
+
   resources :projects
 
   # The priority is based upon order of creation:
